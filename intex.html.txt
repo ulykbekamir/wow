@@ -8,9 +8,7 @@
         
 </head>
 <body>
-    <h1>site here</h1>
-    <p>some text</p>
-    <p>la la la</p>
+    <p>Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your shell</p>
 		
 </body>
 </html>
