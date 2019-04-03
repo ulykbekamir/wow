@@ -3,13 +3,14 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Document</title>
+    <title>loftblog</title>
+    <link rel="stylesheet" href="intex/style.intex"
         
 </head>
 <body>
-    <h1>GIT work</h1>
-    <p>новое изменение файла intex.html.txt</p>
-
+    <h1>site here</h1>
+    <p>some text</p>
+    <p>la la la</p>
 		
 </body>
 </html>
